@@ -79,7 +79,7 @@ Deploying my custom image with Elastic Beanstalk took me about 10 mins
 
 ## Deploying App Updates
 
-To learn how to deploy app updates with Elastic Beanstalk, I updated my app by changing a few things in my index.html, i verified those changes by opening the file locally on my computer.
+To learn how to deploy app updates with Elastic Beanstalk, I updated my app by changing a few things in my index.html, i verified those changes by opening the file locally on my computer. then redeployed the updated app.
 
 ![Image](https://i.imgur.com/qGbpWBP.png)
 
