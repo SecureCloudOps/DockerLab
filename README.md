@@ -13,6 +13,8 @@
 
 ## Introducing My Docker Project!
 
+![Image](https://imgur.com/yHwMMqQ.png)
+
 ### What is Docker?
 
 Docker is a platform that automates app deployment using containers. One thing I didn't expect to run into was port conflicts. If multiple containers try to bind to the same host port, one will fail. This project took me 2.5 hours to complete.
